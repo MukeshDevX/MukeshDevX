@@ -23,6 +23,5 @@ Email Me 👉 ✉️ **mukesh.pydev@mail.com.com** For Collaboration/Project or 
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AnimeArc) 
+[<img src="https://img.shields.io/badge/Google_Pay-Buy_me_a_coffee-blue?logo=google-pay&logoColor=white&style=for-the-badge" />](YOUR_UPI_ID_LINK)
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
