@@ -21,7 +21,5 @@ Email Me 👉 ✉️ **mukesh.pydev@mail.com.com** For Collaboration/Project or 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AnimeArc) 
   [![Google Pay](https://img.shields.io/badge/Google_Pay(INDIA)-00457C?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=kumarmukesh86070-2@okicici&pn=TA%E1%B8%B0I&aid=uGICAgMC0i6rXVg)
 
-  <a href="upi://pay?pa=kumarmukesh86070-2@okicici&pn=TA%E1%B8%B0I&aid=uGICAgMC0i6rXVg">
-  <img src="https://img.shields.io/badge/Google_Pay-Pay_Now-red?style=for-the-badge&logo=google-pay&logoColor=white" alt="Google Pay" />
-</a>
+[![Google Pay](https://img.shields.io/badge/Google_Pay-Pay_Now-red?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=kumarmukesh86070-2@okicici&pn=TA%E1%B8%B0I&aid=uGICAgMC0i6rXVg)
 
