@@ -19,5 +19,5 @@ Email Me 👉 ✉️ **mukesh.pydev@mail.com.com** For Collaboration/Project or 
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AnimeArc) 
-[<img src="https://img.shields.io/badge/Google_Pay (INDIA)-blue?logo=google-pay&logoColor=white&style=for-the-badge" />](upi://pay?pa=kumarmukesh86070-2@okicici&pn=TA%E1%B8%B0I&aid=uGICAgMC0i6rXVg)
+  [![Google Pay](https://img.shields.io/badge/Google_Pay(INDIA)-blue?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=kumarmukesh86070-2@okicici&pn=TA%E1%B8%B0I&aid=uGICAgMC0i6rXVg)
 
