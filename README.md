@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Mukesh Kumar
+# Hii 👋, I'm Mukesh Kumar!
 **Aspiring Full-Stack Developer**
 
-Email Me 👉 ✉️ **mukesh.pydev@mail.com.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 **mukesh.pydev@mail.com.com** For Collaboration/Project or Anything Else. 😊
 
 - 🔭 **I’m currently working on:** Project CiviConn
 
@@ -13,13 +13,10 @@ Email Me 👉 ✉️ **mukesh.pydev@mail.com.com** For Collaboration/Project or 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MukeshDevX&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MukeshDevX&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AnimeArc) 
-  [![Google Pay](https://img.shields.io/badge/Google_Pay(INDIA)-00457C?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=kumarmukesh86070-2@okicici&pn=TA%E1%B8%B0I&aid=uGICAgMC0i6rXVg)
 
-[![Google Pay](https://img.shields.io/badge/Google_Pay-Pay_Now-red?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=kumarmukesh86070-2@okicici&pn=TA%E1%B8%B0I&aid=uGICAgMC0i6rXVg)
 
