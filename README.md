@@ -55,10 +55,8 @@ ___
          alt="Mukesh's GitHub Contribution Graph" />
 </div>
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukeshdevx&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshdevx&theme=tokyonight" />
-</p>
+## 🚀 Projects in Progress
+- **Civiconn**: A community-focused web app for Tier-2/3 cities.
+- **AI Integration**: Working on LLM and OpenAI API based tools.
