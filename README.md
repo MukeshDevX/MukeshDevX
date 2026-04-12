@@ -41,6 +41,20 @@
 
 ___
 
+## 📊 GITHUB ACTIVITY & STATS
+<div align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukeshDevX&theme=dracula" 
+         alt="Mukesh's GitHub Stats" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MukeshDevX&theme=dracula" 
+         alt="Mukesh's Top Languages" />
+</div>
+<br>
+
+<div align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukeshDevX&theme=dracula" 
+         alt="Mukesh's GitHub Contribution Graph" />
+</div>
+
 ## 📊 GitHub Stats
 
 <p align="center">
