@@ -12,28 +12,64 @@
 
 </div>
 
-I build web apps from the React interface to the Node.js API and the MongoDB database, and add AI features through LLM APIs. I'm based in Varanasi, India, and open to full-time Full-Stack or Frontend Developer roles (remote or relocation).
+<br>
+
+## About
+
+I build web apps from the React interface to the Node.js API and the MongoDB database, and add AI features through LLM APIs. I'm based in Varanasi, India, with a B.Sc. in Mathematics (2025).
+
+**Open to:** full-time Full-Stack or Frontend Developer roles, remote or relocation.
 
 ## Projects
 
-| Project | What it does | Stack | Links |
-| --- | --- | --- | --- |
-| **ShopKart** | Full-stack e-commerce store with JWT authentication and product filtering | React, Node.js, Express, MongoDB | [Code](https://github.com/MukeshDevX/Shopkart) · [Live](https://shopkart-taki.vercel.app/) |
-| **RentShield** | Tracks shared expenses and verifies receipts with OCR | React, Node.js, MongoDB | [Code](https://github.com/MukeshDevX/RentShield) · [Live](https://rentshield-taki.vercel.app/) |
-| **FormFlow** | Filters spam from lead forms | React, Node.js, MongoDB | [Code](https://github.com/MukeshDevX/FormFlow) · [Live](https://formflow-taki.vercel.app/) |
-| **AI Resume Analyzer** | Analyzes a resume with an LLM API | React, Python, LLM API | [Code](https://github.com/MukeshDevX/ai-resume-analyzer) · [Live](https://airesume-taki.vercel.app/) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ShopKart</h3>
+      <p>Full-stack e-commerce store with JWT authentication and product filtering.</p>
+      <sub>React · Node.js · Express · MongoDB</sub>
+      <p><a href="https://shopkart-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/Shopkart">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>RentShield</h3>
+      <p>Tracks shared expenses and verifies receipts with OCR.</p>
+      <sub>React · Node.js · MongoDB</sub>
+      <p><a href="https://rentshield-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/RentShield">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>FormFlow</h3>
+      <p>Filters spam from lead forms.</p>
+      <sub>React · Node.js · MongoDB</sub>
+      <p><a href="https://formflow-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/FormFlow">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI Resume Analyzer</h3>
+      <p>Analyzes a resume with an LLM API.</p>
+      <sub>React · Python · LLM API</sub>
+      <p><a href="https://airesume-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/ai-resume-analyzer">Code</a></p>
+    </td>
+  </tr>
+</table>
 
-## Tech stack
+More details on each project are on my [portfolio](https://mukeshdevx.vercel.app/projects).
 
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,nodejs,express,mongodb,python,git,github,postman,vercel,figma&perline=7" alt="Tech stack"></a>
-</p>
+## Skills
+
+| | |
+| --- | --- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="React, Tailwind CSS, HTML, CSS" align="center"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" align="center"> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" align="center"> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,python" alt="JavaScript, Python" align="center"> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma" alt="Git, GitHub, Postman, Vercel, Figma" align="center"> |
 
 ## Certifications
 
-- [Claude with the Anthropic API](https://verify.skilljar.com/c/zcwr893xhnqt), Anthropic
-- [Introduction to Generative AI](https://www.skills.google/public_profiles/4171b53a-8f97-418c-95bf-5d03244f473c/badges/23500426), Google Cloud
-- [Software Engineer](https://www.hackerrank.com/certificates/ad94ac45f7fb), HackerRank
+- [Claude with the Anthropic API](https://verify.skilljar.com/c/zcwr893xhnqt), Anthropic, April 2026
+- [Introduction to Generative AI](https://www.skills.google/public_profiles/4171b53a-8f97-418c-95bf-5d03244f473c/badges/23500426), Google Cloud, April 2026
+- [Software Engineer](https://www.hackerrank.com/certificates/ad94ac45f7fb), HackerRank, April 2026
 
 ## GitHub stats
 
@@ -44,6 +80,6 @@ I build web apps from the React interface to the Node.js API and the MongoDB dat
 
 ## Contact
 
-Email me at [mukeshdevx@gmail.com](mailto:mukeshdevx@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/mukeshdevx/) and [X](https://x.com/mukeshdevz).
+[mukeshdevx@gmail.com](mailto:mukeshdevx@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mukeshdevx/) · [X](https://x.com/mukeshdevz)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:455ce9,100:1c1d20&section=footer" alt="" width="100%">
