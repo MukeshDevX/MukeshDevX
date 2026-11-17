@@ -14,72 +14,82 @@
 
 <br>
 
-## About
+<h2 align="center">About</h2>
 
-I build web apps from the React interface to the Node.js API and the MongoDB database, and add AI features through LLM APIs. I'm based in Varanasi, India, with a B.Sc. in Mathematics (2025).
+<p align="center">
+I build web apps from the React interface to the Node.js API and the MongoDB database, and add AI features through LLM APIs. I'm based in Varanasi, India, with a B.Sc. in Mathematics (2025).<br>
+<b>Open to:</b> full-time Full-Stack or Frontend Developer roles, remote or relocation.
+</p>
 
-**Open to:** full-time Full-Stack or Frontend Developer roles, remote or relocation.
+<h2 align="center">Projects</h2>
 
-## Projects
-
+<div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>ShopKart</h3>
-      <p>Full-stack e-commerce store with JWT authentication and product filtering.</p>
-      <sub>React · Node.js · Express · MongoDB</sub>
-      <p><a href="https://shopkart-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/Shopkart">Code</a></p>
+    <td width="50%" valign="top" align="center">
+      <b>ShopKart</b><br>
+      Full-stack e-commerce store with JWT authentication and product filtering.<br>
+      <sub>React · Node.js · Express · MongoDB</sub><br>
+      <a href="https://shopkart-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/Shopkart">Code</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>RentShield</h3>
-      <p>Tracks shared expenses and verifies receipts with OCR.</p>
-      <sub>React · Node.js · MongoDB</sub>
-      <p><a href="https://rentshield-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/RentShield">Code</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>FormFlow</h3>
-      <p>Filters spam from lead forms.</p>
-      <sub>React · Node.js · MongoDB</sub>
-      <p><a href="https://formflow-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/FormFlow">Code</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI Resume Analyzer</h3>
-      <p>Analyzes a resume with an LLM API.</p>
-      <sub>React · Python · LLM API</sub>
-      <p><a href="https://airesume-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/ai-resume-analyzer">Code</a></p>
+    <td width="50%" valign="top" align="center">
+      <b>RentShield</b><br>
+      Tracks shared expenses and verifies receipts with OCR.<br>
+      <sub>React · Node.js · MongoDB</sub><br>
+      <a href="https://rentshield-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/RentShield">Code</a>
     </td>
   </tr>
 </table>
+</div>
 
-More details on each project are on my [portfolio](https://mukeshdevx.vercel.app/projects).
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <b>FormFlow</b><br>
+      Filters spam from lead forms.<br>
+      <sub>React · Node.js · MongoDB</sub><br>
+      <a href="https://formflow-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/FormFlow">Code</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <b>AI Resume Analyzer</b><br>
+      Analyzes a resume with an LLM API.<br>
+      <sub>React · Python · LLM API</sub><br>
+      <a href="https://airesume-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/ai-resume-analyzer">Code</a>
+    </td>
+  </tr>
+</table>
+</div>
 
-## Skills
+<p align="center">More details on each project are on my <a href="https://mukeshdevx.vercel.app/projects">portfolio</a>.</p>
 
-| | |
-| --- | --- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="React, Tailwind CSS, HTML, CSS" align="center"> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" align="center"> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" align="center"> |
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,python" alt="JavaScript, Python" align="center"> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma" alt="Git, GitHub, Postman, Vercel, Figma" align="center"> |
+<h2 align="center">Skills</h2>
+<p align="center">
+<b>Frontend</b> &nbsp; <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="React, Tailwind CSS, HTML, CSS" align="center"><br>
+<b>Backend</b> &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" align="center"><br>
+<b>Database</b> &nbsp; <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" align="center"><br>
+<b>Languages</b> &nbsp; <img src="https://skillicons.dev/icons?i=js,python" alt="JavaScript, Python" align="center"><br>
+<b>Tools</b> &nbsp; <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma" alt="Git, GitHub, Postman, Vercel, Figma" align="center">
+</p>
 
-## Certifications
+<h2 align="center">Certifications</h2>
+<p align="center">
+<a href="https://verify.skilljar.com/c/zcwr893xhnqt">Claude with the Anthropic API</a> · Anthropic, April 2026<br>
+<a href="https://www.skills.google/public_profiles/4171b53a-8f97-418c-95bf-5d03244f473c/badges/23500426">Introduction to Generative AI</a> · Google Cloud, April 2026<br>
+<a href="https://www.hackerrank.com/certificates/ad94ac45f7fb">Software Engineer</a> · HackerRank, April 2026
+</p>
 
-- [Claude with the Anthropic API](https://verify.skilljar.com/c/zcwr893xhnqt), Anthropic, April 2026
-- [Introduction to Generative AI](https://www.skills.google/public_profiles/4171b53a-8f97-418c-95bf-5d03244f473c/badges/23500426), Google Cloud, April 2026
-- [Software Engineer](https://www.hackerrank.com/certificates/ad94ac45f7fb), HackerRank, April 2026
-
-## GitHub stats
+<h2 align="center">GitHub stats</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="GitHub stats" height="170">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="Top languages" height="170">
 </p>
 
-## Contact
+<h2 align="center">Contact</h2>
 
-[mukeshdevx@gmail.com](mailto:mukeshdevx@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mukeshdevx/) · [X](https://x.com/mukeshdevz)
+<p align="center">
+<a href="mailto:mukeshdevx@gmail.com">mukeshdevx@gmail.com</a> · <a href="https://www.linkedin.com/in/mukeshdevx/">LinkedIn</a> · <a href="https://x.com/mukeshdevz">X</a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:455ce9,100:1c1d20&section=footer" alt="" width="100%">
