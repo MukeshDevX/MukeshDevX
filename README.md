@@ -46,8 +46,4 @@ More details on each project are on my [portfolio](https://mukeshdevx.vercel.app
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="GitHub stats" height="170">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="Top languages" height="170">
 
-## Contact
-
-[mukeshdevx@gmail.com](mailto:mukeshdevx@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mukeshdevx/) · [X](https://x.com/mukeshdevz)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:455ce9,100:1c1d20&section=footer" alt="" width="100%">
