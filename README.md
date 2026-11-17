@@ -14,82 +14,40 @@
 
 <br>
 
-<h2 align="center">About</h2>
+## About
 
-<p align="center">
-I build web apps from the React interface to the Node.js API and the MongoDB database, and add AI features through LLM APIs. I'm based in Varanasi, India, with a B.Sc. in Mathematics (2025).<br>
-<b>Open to:</b> full-time Full-Stack or Frontend Developer roles, remote or relocation.
-</p>
+I build web apps from the React interface to the Node.js API and the MongoDB database, and add AI features through LLM APIs. I'm based in Varanasi, India, with a B.Sc. in Mathematics (2025).
 
-<h2 align="center">Projects</h2>
+**Open to:** full-time Full-Stack or Frontend Developer roles, remote or relocation.
 
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <b>ShopKart</b><br>
-      Full-stack e-commerce store with JWT authentication and product filtering.<br>
-      <sub>React · Node.js · Express · MongoDB</sub><br>
-      <a href="https://shopkart-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/Shopkart">Code</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <b>RentShield</b><br>
-      Tracks shared expenses and verifies receipts with OCR.<br>
-      <sub>React · Node.js · MongoDB</sub><br>
-      <a href="https://rentshield-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/RentShield">Code</a>
-    </td>
-  </tr>
-</table>
-</div>
+## Projects
 
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <b>FormFlow</b><br>
-      Filters spam from lead forms.<br>
-      <sub>React · Node.js · MongoDB</sub><br>
-      <a href="https://formflow-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/FormFlow">Code</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <b>AI Resume Analyzer</b><br>
-      Analyzes a resume with an LLM API.<br>
-      <sub>React · Python · LLM API</sub><br>
-      <a href="https://airesume-taki.vercel.app/">Live</a> · <a href="https://github.com/MukeshDevX/ai-resume-analyzer">Code</a>
-    </td>
-  </tr>
-</table>
-</div>
+| Project | What it does | Stack | Links |
+| --- | --- | --- | --- |
+| **ShopKart** | Full-stack e-commerce store with JWT authentication and product filtering | React, Node.js, Express, MongoDB | [Live](https://shopkart-taki.vercel.app/)&nbsp;·&nbsp;[Code](https://github.com/MukeshDevX/Shopkart) |
+| **RentShield** | Tracks shared expenses and verifies receipts with OCR | React, Node.js, MongoDB | [Live](https://rentshield-taki.vercel.app/)&nbsp;·&nbsp;[Code](https://github.com/MukeshDevX/RentShield) |
+| **FormFlow** | Filters spam from lead forms | React, Node.js, MongoDB | [Live](https://formflow-taki.vercel.app/)&nbsp;·&nbsp;[Code](https://github.com/MukeshDevX/FormFlow) |
+| **AI Resume Analyzer** | Analyzes a resume with an LLM API | React, Python, LLM API | [Live](https://airesume-taki.vercel.app/)&nbsp;·&nbsp;[Code](https://github.com/MukeshDevX/ai-resume-analyzer) |
 
-<p align="center">More details on each project are on my <a href="https://mukeshdevx.vercel.app/projects">portfolio</a>.</p>
+More details on each project are on my [portfolio](https://mukeshdevx.vercel.app/projects).
 
-<h2 align="center">Skills</h2>
-<p align="center">
-<b>Frontend</b> &nbsp; <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="React, Tailwind CSS, HTML, CSS" align="center"><br>
-<b>Backend</b> &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" align="center"><br>
-<b>Database</b> &nbsp; <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" align="center"><br>
-<b>Languages</b> &nbsp; <img src="https://skillicons.dev/icons?i=js,python" alt="JavaScript, Python" align="center"><br>
-<b>Tools</b> &nbsp; <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma" alt="Git, GitHub, Postman, Vercel, Figma" align="center">
-</p>
+## Skills
 
-<h2 align="center">Certifications</h2>
-<p align="center">
-<a href="https://verify.skilljar.com/c/zcwr893xhnqt">Claude with the Anthropic API</a> · Anthropic, April 2026<br>
-<a href="https://www.skills.google/public_profiles/4171b53a-8f97-418c-95bf-5d03244f473c/badges/23500426">Introduction to Generative AI</a> · Google Cloud, April 2026<br>
-<a href="https://www.hackerrank.com/certificates/ad94ac45f7fb">Software Engineer</a> · HackerRank, April 2026
-</p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nodejs,express,mongodb,js,python,git,github,postman,vercel,figma&perline=7" alt="React, Tailwind CSS, HTML, CSS, Node.js, Express, MongoDB, JavaScript, Python, Git, GitHub, Postman, Vercel, Figma">
 
-<h2 align="center">GitHub stats</h2>
+## Certifications
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="GitHub stats" height="170">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="Top languages" height="170">
-</p>
+- [Claude with the Anthropic API](https://verify.skilljar.com/c/zcwr893xhnqt), Anthropic, April 2026
+- [Introduction to Generative AI](https://www.skills.google/public_profiles/4171b53a-8f97-418c-95bf-5d03244f473c/badges/23500426), Google Cloud, April 2026
+- [Software Engineer](https://www.hackerrank.com/certificates/ad94ac45f7fb), HackerRank, April 2026
 
-<h2 align="center">Contact</h2>
+## GitHub stats
 
-<p align="center">
-<a href="mailto:mukeshdevx@gmail.com">mukeshdevx@gmail.com</a> · <a href="https://www.linkedin.com/in/mukeshdevx/">LinkedIn</a> · <a href="https://x.com/mukeshdevz">X</a>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="GitHub stats" height="170">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="Top languages" height="170">
+
+## Contact
+
+[mukeshdevx@gmail.com](mailto:mukeshdevx@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mukeshdevx/) · [X](https://x.com/mukeshdevz)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:455ce9,100:1c1d20&section=footer" alt="" width="100%">
