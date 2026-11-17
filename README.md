@@ -19,6 +19,7 @@
 I build web apps from React interfaces to Node.js APIs and MongoDB, and add AI through LLM APIs.
 
 **Based in:** Varanasi, India
+
 **Open to:** full-time SDE-1 and Full-Stack roles, remote or relocation
 
 ## Projects
