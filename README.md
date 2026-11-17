@@ -1,13 +1,16 @@
-<h1 align="center">Mukesh Kumar</h1>
-<p align="center">Full-Stack Developer · React, Node.js, MongoDB and LLM APIs</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://mukeshdevx.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/mukeshdevx/">LinkedIn</a> ·
-  <a href="mailto:mukeshdevx@gmail.com">Email</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:455ce9,100:1c1d20&text=Mukesh%20Kumar&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer&descSize=20&descAlignY=60" alt="Mukesh Kumar, Full-Stack Developer" width="100%">
+
+<a href="https://mukeshdevx.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1800&color=455CE9&center=true&vCenter=true&width=560&lines=React+interfaces+to+Node.js+APIs;MongoDB+databases+and+REST+APIs;AI+features+through+LLM+APIs;Open+to+full-time+roles" alt="Typing animation"></a>
 
 <br>
+
+<a href="https://mukeshdevx.vercel.app"><img src="https://img.shields.io/badge/Portfolio-455ce9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/mukeshdevx/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:mukeshdevx@gmail.com"><img src="https://img.shields.io/badge/Email-1c1d20?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
 
 I build web apps from the React interface to the Node.js API and the MongoDB database, and add AI features through LLM APIs. I'm based in Varanasi, India, and open to full-time Full-Stack or Frontend Developer roles (remote or relocation).
 
@@ -23,22 +26,7 @@ I build web apps from the React interface to the Node.js API and the MongoDB dat
 ## Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,nodejs,express,mongodb,python,git,github,postman,vercel,figma&perline=7" alt="Tech stack"></a>
 </p>
 
 ## Certifications
@@ -50,10 +38,12 @@ I build web apps from the React interface to the Node.js API and the MongoDB dat
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukeshDevX&theme=default" alt="GitHub stats" height="170">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MukeshDevX&theme=default" alt="Top languages" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="GitHub stats" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="Top languages" height="170">
 </p>
 
 ## Contact
 
 Email me at [mukeshdevx@gmail.com](mailto:mukeshdevx@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/mukeshdevx/) and [X](https://x.com/mukeshdevz).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:455ce9,100:1c1d20&section=footer" alt="" width="100%">
