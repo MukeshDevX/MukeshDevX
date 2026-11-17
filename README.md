@@ -16,9 +16,10 @@
 
 ## About
 
-I build web apps from the React interface to the Node.js API and the MongoDB database, and add AI features through LLM APIs. I'm based in Varanasi, India, with a B.Sc. in Mathematics (2025).
+I build web apps from React interfaces to Node.js APIs and MongoDB, and add AI through LLM APIs.
 
-**Open to:** full-time Full-Stack or Frontend Developer roles, remote or relocation.
+**Based in:** Varanasi, India
+**Open to:** full-time SDE-1 and Full-Stack roles, remote or relocation
 
 ## Projects
 
