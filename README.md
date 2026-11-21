@@ -37,12 +37,6 @@ More details on each project are on my [portfolio](https://mukeshdevx.vercel.app
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nodejs,express,mongodb,js,python,git,github,postman,vercel,figma&perline=7" alt="React, Tailwind CSS, HTML, CSS, Node.js, Express, MongoDB, JavaScript, Python, Git, GitHub, Postman, Vercel, Figma">
 
-## Certifications
-
-- [Claude with the Anthropic API](https://verify.skilljar.com/c/zcwr893xhnqt), Anthropic, April 2026
-- [Introduction to Generative AI](https://www.skills.google/public_profiles/4171b53a-8f97-418c-95bf-5d03244f473c/badges/23500426), Google Cloud, April 2026
-- [Software Engineer](https://www.hackerrank.com/certificates/ad94ac45f7fb), HackerRank, April 2026
-
 ## GitHub stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="GitHub stats" height="170">
