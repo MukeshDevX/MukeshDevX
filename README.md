@@ -40,6 +40,7 @@ More details on each project are on my [portfolio](https://mukeshdevx.vercel.app
 ## GitHub stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukeshDevX&theme=dark&border_color=e9eaeb" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshDevX&layout=compact&theme=dark&hide_border=false&border_color=e9eaeb" alt="Most Used Languages" height="170" />
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshDevX&layout=compact&theme=dark&hide_border=true)](https://camo.githubusercontent.com/aeeb62d5867ea817b80442e443a26e3a3b6875dfb3ac525b354811e222d93fc4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d756b65736844657658266c61796f75743d636f6d70616374267468656d653d6461726b26686964655f626f726465723d66616c736526626f726465725f636f6c6f723d653965616562)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:455ce9,100:1c1d20&section=footer" alt="" width="100%">
