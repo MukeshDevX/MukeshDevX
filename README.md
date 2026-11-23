@@ -39,7 +39,7 @@ More details on each project are on my [portfolio](https://mukeshdevx.vercel.app
 
 ## GitHub stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="GitHub stats" height="170">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MukeshDevX&theme=default&border_color=e9eaeb" alt="Top languages" height="170">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MukeshDevX&theme=dark&border_color=e9eaeb" alt="GitHub stats" height="170">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MukeshDevX&theme=dark&border_color=e9eaeb" alt="Top languages" height="170">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:455ce9,100:1c1d20&section=footer" alt="" width="100%">
