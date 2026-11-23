@@ -35,7 +35,7 @@ More details on each project are on my [portfolio](https://mukeshdevx.vercel.app
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nodejs,express,mongodb,js,python,git,github,postman,vercel,figma&perline=7" alt="React, Tailwind CSS, HTML, CSS, Node.js, Express, MongoDB, JavaScript, Python, Git, GitHub, Postman, Vercel, Figma">
+[![React, Tailwind CSS, HTML, CSS, Node.js, Express, MongoDB, JavaScript, Git, GitHub, Postman, Render, Vercel, Figma](https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,html,css,nodejs,express,mongodb,js,git,github,postman,render,vercel,figma&perline=7)](https://go-skill-icons.vercel.app)
 
 ## GitHub stats
 
